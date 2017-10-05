@@ -1,0 +1,58 @@
+body{
+  background: rgb(0,0,0);
+  color: black;
+  font-size: 15px;
+  font-family: Helvetica;
+} 
+h1{
+  font-family: Helvetica;
+  color: red;
+  font-weight: lighter;
+  font-size: 10px;
+}
+h2 {
+  font-family: Helvetica;
+  color: white;
+  font-weight: lighter;
+  font-size: 12px;
+}
+a {
+  color: lightgrey;
+}
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://media.tenor.com/images/bedbdfe36f159b632343a69e74206f81/tenor.gif");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 25px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+  text-align: center;
+
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+  text-align: center;
+  color:white;
+
+}
