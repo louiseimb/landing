@@ -2,16 +2,16 @@ body{
   background: rgb(0,0,0);
   color: black;
   font-size: 15px;
-  font-family: Helvetica;
+  font-family: 'Slabo 27px', serif;
 } 
 h1{
-  font-family: Helvetica;
+  font-family: 'Slabo 27px', serif;
   color: red;
   font-weight: lighter;
   font-size: 10px;
 }
 h2 {
-  font-family: Helvetica;
+  font-family: 'Slabo 27px', serif;
   color: white;
   font-weight: lighter;
   font-size: 12px;
@@ -42,6 +42,13 @@ a:hover {
   font-size: 30px;
   font-weight: lighter;
 }
+
+#wufoo-m15p1hr1k7lwnz{
+  color:white;
+  border:3px silver groove;
+
+}
+
 #footer{
   padding: 25px;
   background: rgb(30, 30, 30);
@@ -54,5 +61,4 @@ a:hover {
   font-weight: lighter;
   text-align: center;
   color:white;
-
 }
